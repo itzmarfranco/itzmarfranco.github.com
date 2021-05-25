@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/itzmarfranco.github.com/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/itzmarfranco.github.com/static/js/main.c274e15f.chunk.js",
-    "main.js.map": "/itzmarfranco.github.com/static/js/main.c274e15f.chunk.js.map",
-    "runtime-main.js": "/itzmarfranco.github.com/static/js/runtime-main.3ae54d90.js",
-    "runtime-main.js.map": "/itzmarfranco.github.com/static/js/runtime-main.3ae54d90.js.map",
-    "static/js/2.4674b17b.chunk.js": "/itzmarfranco.github.com/static/js/2.4674b17b.chunk.js",
-    "static/js/2.4674b17b.chunk.js.map": "/itzmarfranco.github.com/static/js/2.4674b17b.chunk.js.map",
-    "static/js/3.48d4a794.chunk.js": "/itzmarfranco.github.com/static/js/3.48d4a794.chunk.js",
-    "static/js/3.48d4a794.chunk.js.map": "/itzmarfranco.github.com/static/js/3.48d4a794.chunk.js.map",
+    "main.css": "/itzmarfranco.github.com/static/css/main.fd8833a4.chunk.css",
+    "main.js": "/itzmarfranco.github.com/static/js/main.8f0d4a1f.chunk.js",
+    "main.js.map": "/itzmarfranco.github.com/static/js/main.8f0d4a1f.chunk.js.map",
+    "runtime-main.js": "/itzmarfranco.github.com/static/js/runtime-main.06523bbc.js",
+    "runtime-main.js.map": "/itzmarfranco.github.com/static/js/runtime-main.06523bbc.js.map",
+    "static/js/2.c857aff3.chunk.js": "/itzmarfranco.github.com/static/js/2.c857aff3.chunk.js",
+    "static/js/2.c857aff3.chunk.js.map": "/itzmarfranco.github.com/static/js/2.c857aff3.chunk.js.map",
+    "static/js/3.89004f39.chunk.js": "/itzmarfranco.github.com/static/js/3.89004f39.chunk.js",
+    "static/js/3.89004f39.chunk.js.map": "/itzmarfranco.github.com/static/js/3.89004f39.chunk.js.map",
     "index.html": "/itzmarfranco.github.com/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/itzmarfranco.github.com/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.4674b17b.chunk.js.LICENSE.txt": "/itzmarfranco.github.com/static/js/2.4674b17b.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/itzmarfranco.github.com/static/media/logo.6ce24c58.svg"
+    "static/css/main.fd8833a4.chunk.css.map": "/itzmarfranco.github.com/static/css/main.fd8833a4.chunk.css.map",
+    "static/js/2.c857aff3.chunk.js.LICENSE.txt": "/itzmarfranco.github.com/static/js/2.c857aff3.chunk.js.LICENSE.txt",
+    "static/media/pp.5736837e.png": "/itzmarfranco.github.com/static/media/pp.5736837e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ae54d90.js",
-    "static/js/2.4674b17b.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.c274e15f.chunk.js"
+    "static/js/runtime-main.06523bbc.js",
+    "static/js/2.c857aff3.chunk.js",
+    "static/css/main.fd8833a4.chunk.css",
+    "static/js/main.8f0d4a1f.chunk.js"
   ]
 }
