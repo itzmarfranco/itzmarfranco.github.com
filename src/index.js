@@ -1,12 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Homepage from './components/Homepage';
 import './index.css';
-import CV from './components/CV'
+//import CV from './components/CV'
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <CV/>
+    <Homepage/>
   </React.StrictMode>,
   document.getElementById('root')
 );

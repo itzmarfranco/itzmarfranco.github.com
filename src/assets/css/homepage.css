@@ -1,0 +1,76 @@
+.container {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    min-width: 100%;
+    background-color: #a1fcdfff;
+}
+
+.background-image{
+    position: fixed;
+    width: 100%;
+    height: 70%;
+    /* background-image: url('../images/bb.jpg'); */
+    background-color: #fcd29fff;
+}
+
+.content{
+    position: relative;
+    background-color: white;
+    width: 60%;
+    height: 350px;
+    max-height: 400px;
+    min-height: 300px;
+    min-width: 500px;
+    margin: auto;
+    top: 20%;
+}
+
+.right-panel{
+    position: relative;
+    margin-left: 40%;
+    top: 40px;    
+}
+
+.profile-picture {
+    position: absolute;
+    width: 30%;
+    top: 40px;
+    left: 40px;
+}
+
+.bottom-bar{
+    position: absolute;
+    background-color: #fcab64ff;
+    bottom: 0;
+    width: 100%;
+}
+
+.socials{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 80%;
+    font-size: 1.5em;
+}
+
+.social-link{
+    color: #000;
+}
+
+.social-link:visited{
+    color: #000;
+}
+
+.social-link:hover{
+    color: white;
+}
+
+.palette{
+    background-color: #fcefefff; /*snow*/
+    background-color: #7fd8beff; /*middle-blue-green*/
+    background-color: #a1fcdfff; /*magic-mint*/
+    background-color: #fcd29fff; /*deep-champagne*/
+    background-color: #fcab64ff; /*rajah*/
+}

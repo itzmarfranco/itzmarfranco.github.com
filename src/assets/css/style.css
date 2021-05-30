@@ -1,10 +1,10 @@
-/*
-snow: #fcefefff;
-middle-blue-green: #7fd8beff;
-magic-mint: #a1fcdfff;
-deep-champagne: #fcd29fff;
-rajah: #fcab64ff;
-*/
+.palette{
+    background-color: #fcefefff; /*snow*/
+    background-color: #7fd8beff; /*middle-blue-green*/
+    background-color: #a1fcdfff; /*magic-mint*/
+    background-color: #fcd29fff; /*deep-champagne*/
+    background-color: #fcab64ff; /*rajah*/
+}
 
 .profilePicture {
     border-radius: 50%;
@@ -40,8 +40,6 @@ rajah: #fcab64ff;
 }
 
 .right-panel {
-    /*background-color: blue;*/
-    display: flex;
     width: 50%;
 }
 
@@ -65,11 +63,33 @@ rajah: #fcab64ff;
     color: #7fd8beff;
 }
 
-.nav-bar-link{
-    margin-right: 5em;
+.tabs{
+    height: fit-content;
+    width: 100%;
 }
 
-.top-nav-bar{
-    max-height: 1em;
-    width: 100%;
+.tabs > ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.tabs > ul > li {
+    float: left;
+    padding: 16px;
+}
+
+.tabs > ul > li:hover {
+    background-color: #a1fcdfff;
+}
+
+.tabs > ul > li > a {
+    text-decoration: none;
+    display: block;
+    color: #000;
+    text-align: center;
+}
+
+.content{
 }
