@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/itzmarfranco.github.com/static/css/main.aa37fc6b.chunk.css",
+    "main.css": "/itzmarfranco.github.com/static/css/main.6e336286.chunk.css",
     "main.js": "/itzmarfranco.github.com/static/js/main.7af0ddc0.chunk.js",
     "main.js.map": "/itzmarfranco.github.com/static/js/main.7af0ddc0.chunk.js.map",
     "runtime-main.js": "/itzmarfranco.github.com/static/js/runtime-main.aa62facb.js",
@@ -10,14 +10,14 @@
     "static/js/3.1e64b882.chunk.js": "/itzmarfranco.github.com/static/js/3.1e64b882.chunk.js",
     "static/js/3.1e64b882.chunk.js.map": "/itzmarfranco.github.com/static/js/3.1e64b882.chunk.js.map",
     "index.html": "/itzmarfranco.github.com/index.html",
-    "static/css/main.aa37fc6b.chunk.css.map": "/itzmarfranco.github.com/static/css/main.aa37fc6b.chunk.css.map",
+    "static/css/main.6e336286.chunk.css.map": "/itzmarfranco.github.com/static/css/main.6e336286.chunk.css.map",
     "static/js/2.780d7707.chunk.js.LICENSE.txt": "/itzmarfranco.github.com/static/js/2.780d7707.chunk.js.LICENSE.txt",
     "static/media/pp.5736837e.png": "/itzmarfranco.github.com/static/media/pp.5736837e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.aa62facb.js",
     "static/js/2.780d7707.chunk.js",
-    "static/css/main.aa37fc6b.chunk.css",
+    "static/css/main.6e336286.chunk.css",
     "static/js/main.7af0ddc0.chunk.js"
   ]
 }
