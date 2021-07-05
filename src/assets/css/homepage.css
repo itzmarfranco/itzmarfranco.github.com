@@ -30,7 +30,7 @@
 .right-panel{
     position: relative;
     margin-left: 40%;
-    top: 40px;    
+    top: 40px;
 }
 
 .profile-picture {
@@ -38,8 +38,8 @@
     width: 30%;
     top: 40px;
     left: 40px;
-    min-width: 25%;
-    max-width: 30%;
+    min-width: 20%;
+    max-width: 22%;
 }
 
 .bottom-bar{
